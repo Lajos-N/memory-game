@@ -1,0 +1,2 @@
+This is a card memory game with several levels of difficulty and each level is timed. The player has three lives to reach the highest possible level in the game.
+If the time allotted to complete the level expires, the player loses a life and the given level starts over.
