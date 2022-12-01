@@ -1,0 +1,22 @@
+:root {
+  --color1: #032539;
+  --color2: #1c768f;
+  --color3: #fbf3f2;
+  --color4: #fa991c;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  background-color: var(--color2);
+  color: white;
+  min-width: 350px;
+}
